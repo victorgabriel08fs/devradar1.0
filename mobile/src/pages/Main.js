@@ -87,7 +87,7 @@ function Main({ navigation }) {
                 />
 
                 <TouchableOpacity onPress={loadDevs} style={styles.loadButton}>
-                    <MaterialIcons name='my-location' size={20} color='#fff' />
+                    <MaterialIcons name='search' size={20} color='#fff' />
                 </TouchableOpacity>
 
             </View>
